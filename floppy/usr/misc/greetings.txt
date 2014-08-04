@@ -4,7 +4,7 @@ Internet Cards can be used to make HTTP requests and open raw TCP connections.
 Have a look at the code of the built-in programs for examples on how to use the APIs.
 Most programs can be interrupted by pressing Ctrl+Alt+C.
 Run `help` or `man programname` for ingame help on programs shipped with OpenLuther - start with `man man`.
-For more help, find the IRC dungeon loot disk and join #openluther on irc.atheme.net.
+For more help, find the IRC dungeon loot disk and join #ol on irc.atheme.net.
 Many component methods have a short documentation - use `=component.componentName.methodName` in the Lua interpreter to see it.
 You can get a list of all attached components using the `components` program.
 If your computer has enough memory, you can run a more interactive shell, lush.
