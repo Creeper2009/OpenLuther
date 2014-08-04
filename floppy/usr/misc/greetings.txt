@@ -1,0 +1,13 @@
+You can change the text size on screens by changing their resolution - run `resolution 40 16` in the shell.
+You can install OpenLuther on a writable medium by running the `install` program.
+Internet Cards can be used to make HTTP requests and open raw TCP connections.
+Have a look at the code of the built-in programs for examples on how to use the APIs.
+Most programs can be interrupted by pressing Ctrl+Alt+C.
+Run `help` or `man programname` for ingame help on programs shipped with OpenLuther - start with `man man`.
+For more help, find the IRC dungeon loot disk and join #openluther on irc.atheme.net.
+Many component methods have a short documentation - use `=component.componentName.methodName` in the Lua interpreter to see it.
+You can get a list of all attached components using the `components` program.
+If you encounter out of memory errors, throw more RAM at your computer.
+Have you tried turning it off and on again?
+If your computer ever gets a jitterbug, download fre antvrs '14.
+To disable this greeting, install OpenLuther to a writeable medium and delete `/etc/motd`.
